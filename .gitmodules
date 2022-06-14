@@ -1,3 +1,6 @@
 [submodule "external/pohsun_ssim"]
 	path = external/pohsun_ssim
 	url = https://github.com/Po-Hsun-Su/pytorch-ssim
+[submodule "external/TensoRF"]
+	path = external/TensoRF
+	url = https://github.com/kudo1026/TensoRF.git
